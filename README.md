@@ -23,6 +23,37 @@ style="margin: 0 10px;" >简体中文</a>
 
 https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
 
+<h1 align="center">Sponsors</h1>
+
+<p>
+PakePlus is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome backers. If you'd like to join them, please consider sponsoring PakePlus's development.
+</p>
+
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #ddd;">
+    <tr>
+        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
+            <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/finevoice.png" width="100"/>
+            <h3 style="margin: 0"><a href="https://finevoice.ai/" target="_blank">FineVoice</a></h3>
+            <p style="margin: 0">Create Every Voice You Imagine</p>
+        </td>
+        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
+            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" width="100"/>
+            <h3 style="margin: 0"><a href="https://tauri.app/" target="_blank">Tauri</a></h3>
+            <p style="margin: 0">Create cross-platform applications</p>
+        </td>
+        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
+            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" width="100"/>
+            <h3 style="margin: 0"><a href="https://cursor.com/agents" target="_blank">Cursor</a></h3>
+            <p style="margin: 0">Cursor is the best way to code with AI.</p>
+        </td>
+        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
+            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" width="100"/>
+            <h3 style="margin: 0"><a href="https://www.jetbrains.com/idea/" target="_blank">JetBrains</a></h3>
+            <p style="margin: 0">The Leading IDE for Professional Development</p>
+        </td>
+    </tr>
+</table>
+
 ## Features
 
 -   🎐 Approximately 20 times smaller than Electron (less than 5MB!) and 10 times faster.
@@ -52,63 +83,6 @@ https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
 -   Turn any website into your custom client — inject JS for automation and custom features.
 -   Annoyed by website ads? Hide them with powerful JS.
 -   Want to use Tauri2 but the environment is too heavy? Use PakePlus instead!
-
-## Popular Packages
-
-<img src=https://sjj1024.github.io/PakePlus/static/imgs/preview.webp  width=1920/>
-
-PakePlus supports installation packages for both ARM and Intel architectures. Most popular program installation packages only include the ARM architecture for macOS and the Intel architecture for Windows. If you need installation packages for additional architectures, please use PakePlus to compile the required package separately.
-
-<table>
-    <tr>
-        <td>DeepSeek
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/DeepSeek_0.0.1_aarch64.dmg">Mac(Arm)</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/DeepSeek_0.0.1_x64-setup.exe">Windows(x64)</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/DeepSeek_0.0.1_amd64.deb">Linux(x64)</a>
-        </td>
-        <td>X (Twitter)
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Twitter/Twitter_0.0.1_aarch64.dmg">Mac(Arm)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Twitter/Twitter_0.0.1_x64-setup.exe">Windows(x64)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Twitter/twitter_0.0.1_amd64.deb">Linux(x64)</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/deepseek.png width=600/></td>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/xtwitter.png width=600/></td>
-    </tr>
-    <tr>
-        <td>YouTube
-            <a href="https://github.com/codegirle/PakePlus/releases/download/YouTube/YouTube_0.0.2_aarch64.dmg">Mac(Arm)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/YouTube/YouTube_0.0.2_x64-setup.exe">Windows(x64)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/YouTube/you-tube_0.0.2_amd64.deb">Linux(x64)</a>
-        </td>
-        <td>小红书
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/_0.0.1_aarch64.dmg">Mac(Arm)</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/_0.0.1_x64-setup.exe">Windows(x64)</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/_0.0.1_amd64.deb">Linux(x64)</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/youtube.png width=600/></td>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/hongshu.png width=600/></td>
-    </tr>
-        <tr>
-        <td>Tiktok
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Tiktok/Tiktok_0.0.2_aarch64.dmg">Mac(Arm)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Tiktok/Tiktok_0.0.2_x64-setup.exe">Windows(x64)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Tiktok/tiktok_0.0.2_amd64.deb">Linux(x64)</a>
-        </td>
-        <td>抖音
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Douyin/Douyin_0.0.2_aarch64.dmg">Mac(Arm)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Douyin/Douyin_0.0.2_x64-setup.exe">Windows(x64)</a>
-            <a href="https://github.com/codegirle/PakePlus/releases/download/Douyin/douyin_0.0.2_amd64.deb">Linux(x64)</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/tiktok.png width=600/></td>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/douyin.png width=600/></td>
-    </tr>
-</table>
 
 ## Getting Started
 
@@ -175,15 +149,12 @@ pnpm run build
 
 1. wechat and group，my wechat is lanxingme，welcome to join the wechat group.
  <p align="center" style="display:flex; justify-content: flex-start;" >
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=300/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=300/>
+    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=200/>
+    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=200/>
+    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/qq.jpg" width=200/>
  </p>
 
 2. 💖If PakePlus has brought joy to your life, feel free to support it.
  <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://files.pakeplus.com/sponsor.webp" width=620/>
+    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
  </p>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Sjj1024/PakePlus,Sjj1024/PakePlus-iOS,Sjj1024/PakePlus-Android&type=Date)](https://www.star-history.com/#Sjj1024/PakePlus&Sjj1024/PakePlus-iOS&Sjj1024/PakePlus-Android&Date)
